@@ -43,7 +43,7 @@
 	            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	                <ul class="nav navbar-nav navbar-right">
 	                	<li>
-	                		<a href="./create_users.php">Crear Usuarios</a>
+	                		<!--<a href="./create_users.php">Crear Usuarios</a>-->
 	                	</li>
 	                </ul>
 	            </div>
